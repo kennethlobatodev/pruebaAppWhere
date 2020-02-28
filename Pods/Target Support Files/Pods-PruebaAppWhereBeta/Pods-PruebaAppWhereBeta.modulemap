@@ -1,0 +1,6 @@
+framework module Pods_PruebaAppWhereBeta {
+  umbrella header "Pods-PruebaAppWhereBeta-umbrella.h"
+
+  export *
+  module * { export * }
+}
